@@ -1,3 +1,5 @@
+
+
 name: 'Close Stale Issues'
 description: 'Close issues and pull requests with no recent activity'
 author: 'GitHub'
